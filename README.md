@@ -1,3 +1,3 @@
 # MARUGAME
 
-<a href="https://boring-perlman-34d3f0.netlify.app" target="_blank">DEMO</a>
+<a href="https://project02-marugame.netlify.app" target="_blank">DEMO</a>
