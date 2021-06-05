@@ -1,0 +1,219 @@
+%!Adobe-FontList 1.20
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\SBS\Desktop\우동 (2)\Font\Otsutome_font_ver3\Otsutome_font_ver3\OFL.txt
+FileModTime:1594453054
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Otsutome_font-Bold
+FamilyName:Otsutome_font Bold
+StyleName:Bold
+FullName:Otsutome_font Bold
+MenuName:Otsutome_font Bold
+StyleBits:0
+FamilyNameNative:おつとめフォント
+StyleNameNative:Bold
+FullNameNative:おつとめフォント-Bold
+WritingScript:Japanese
+OutlineFileName:C:\Users\SBS\Desktop\우동 (2)\Font\Otsutome_font_ver3\Otsutome_font_ver3\OtsutomeFont_Ver3.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:6314088
+FileModTime:1598351792
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Otsutome_font Bold
+NameArray:0,Win,1,Otsutome_font Bold
+NameArray:1,Win,1,おつとめフォント
+NameArray:1,Win,16,おつとめフォント
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\SBS\Desktop\우동 (2)\Font\Otsutome_font_ver3\Otsutome_font_ver3\readme.txt
+FileModTime:1594453114
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\SBS\Desktop\우동 (2)\Font\Otsutome_font_ver3\Otsutome_font_ver3\tester.html
+FileModTime:1563078424
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansJP-Black
+FamilyName:Noto Sans JP
+StyleName:Black
+FullName:Noto Sans JP Black
+MenuName:Noto Sans JP Black
+StyleBits:0
+FamilyNameNative:Noto Sans JP
+StyleNameNative:Black
+FullNameNative:Noto Sans JP Black
+WritingScript:Japanese
+OutlineFileName:C:\Users\SBS\Desktop\우동 (2)\Font\Noto_Sans_JP\NotoSansJP-Black.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:5025412
+FileModTime:1422457200
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans JP Black
+NameArray:0,Win,16,Noto Sans JP
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansJP-Bold
+FamilyName:Noto Sans JP
+StyleName:Bold
+FullName:Noto Sans JP Bold
+MenuName:Noto Sans JP
+StyleBits:2
+FamilyNameNative:Noto Sans JP
+StyleNameNative:Bold
+FullNameNative:Noto Sans JP Bold
+WritingScript:Japanese
+OutlineFileName:C:\Users\SBS\Desktop\우동 (2)\Font\Noto_Sans_JP\NotoSansJP-Bold.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4796008
+FileModTime:1422457200
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans JP
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansJP-Light
+FamilyName:Noto Sans JP
+StyleName:Light
+FullName:Noto Sans JP Light
+MenuName:Noto Sans JP Light
+StyleBits:0
+FamilyNameNative:Noto Sans JP
+StyleNameNative:Light
+FullNameNative:Noto Sans JP Light
+WritingScript:Japanese
+OutlineFileName:C:\Users\SBS\Desktop\우동 (2)\Font\Noto_Sans_JP\NotoSansJP-Light.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4612436
+FileModTime:1422457200
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans JP Light
+NameArray:0,Win,16,Noto Sans JP
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansJP-Medium
+FamilyName:Noto Sans JP
+StyleName:Medium
+FullName:Noto Sans JP Medium
+MenuName:Noto Sans JP Medium
+StyleBits:0
+FamilyNameNative:Noto Sans JP
+StyleNameNative:Medium
+FullNameNative:Noto Sans JP Medium
+WritingScript:Japanese
+OutlineFileName:C:\Users\SBS\Desktop\우동 (2)\Font\Noto_Sans_JP\NotoSansJP-Medium.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4668656
+FileModTime:1422457200
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans JP Medium
+NameArray:0,Win,16,Noto Sans JP
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansJP-Regular
+FamilyName:Noto Sans JP
+StyleName:Regular
+FullName:Noto Sans JP
+MenuName:Noto Sans JP
+StyleBits:0
+FamilyNameNative:Noto Sans JP
+StyleNameNative:Regular
+FullNameNative:Noto Sans JP Regular
+WritingScript:Japanese
+OutlineFileName:C:\Users\SBS\Desktop\우동 (2)\Font\Noto_Sans_JP\NotoSansJP-Regular.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4649428
+FileModTime:1422457200
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans JP
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansJP-Thin
+FamilyName:Noto Sans JP
+StyleName:Thin
+FullName:Noto Sans JP Thin
+MenuName:Noto Sans JP Thin
+StyleBits:0
+FamilyNameNative:Noto Sans JP
+StyleNameNative:Thin
+FullNameNative:Noto Sans JP Thin
+WritingScript:Japanese
+OutlineFileName:C:\Users\SBS\Desktop\우동 (2)\Font\Noto_Sans_JP\NotoSansJP-Thin.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4353648
+FileModTime:1422457200
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans JP Thin
+NameArray:0,Win,16,Noto Sans JP
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\SBS\Desktop\우동 (2)\Font\Noto_Sans_JP\OFL.txt
+FileModTime:1422457200
+%EndFont
+
