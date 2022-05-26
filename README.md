@@ -1,3 +1,3 @@
 # MARUGAME
 
-<a href="https://project02-marugame.netlify.app" target="_blank">DEMO</a>
+<a href="https://marugame.vercel.app/" target="_blank">DEMO</a>
