@@ -30,7 +30,6 @@
 ## 3. コア機能
 
 - Slick ライブラリーでスライド実装。
-- Loading ページ実装。
 - ScrollMagic ライブラリーを使い、scroll の時、画面転換効果実装。
 
 <details>
@@ -38,15 +37,11 @@
   
 ### 3.1. スライド
 
-- **Slick ライブラリー** :pushpin: [コード確認](https://github.com/hi1004/Lotte-App/blob/master/index.html#L1008-L1185)
+- **Slick ライブラリー** :pushpin: [コード確認](https://github.com/hi1004/marugame-App/blob/master/js/index.js#L166-L329)
 
-### 3.2. Loading
+### 3.2. ScrollMagic
 
-- **Load** :pushpin: [コード確認](https://github.com/hi1004/Lotte-App/blob/master/index.html#L928-L947)
-
-### 3.3. Fullpage
-
-- **Fullpage ライブラリー** :pushpin: [コード確認](https://github.com/hi1004/Lotte-App/blob/master/index.html#L948-L1007)
+- **ScrollMagic ライブラリー** :pushpin: [コード確認](https://github.com/hi1004/marugame-App/blob/master/js/index.js#L333-L401)
 
 </details>
 

@@ -337,16 +337,11 @@ $(document).ready(function () {
     console.log(this);
 
     var ourScene = new ScrollMagic.Scene({
-      triggerElement: /*'#section_2',*/ this,
-      /*duration:'90%',*/
+      triggerElement: this,
       triggerHook: 0.9,
     })
 
       .setClassToggle(/*'#section_2'*/ this, 'fade-in')
-      /*.addIndicators({
-                name: 'fade scene',
-          
-            })*/
       .addTo(controller);
   });
 
@@ -358,44 +353,25 @@ $(document).ready(function () {
   })
 
     .setClassToggle('.img_wrap>img', 'fade-in')
-    /*     .addIndicators({
-            name: 'fade scene 2',
-
-            indent: 200,
-           
-        })*/
     .addTo(controller);
 
   $('.sec4_contents').each(function () {
     var ourScene2 = new ScrollMagic.Scene({
       triggerElement: this,
-      /*duration:'90%',*/
       triggerHook: 0.9,
       reverse: true,
     })
 
       .setClassToggle(this, 'fade-in')
-      /*.addIndicators({
-                name: 'fade scene 3',
-          
-                indent: 200,
-             
-            })*/
       .addTo(controller);
   });
 
   var ourScene3 = new ScrollMagic.Scene({
     triggerElement: '.contents_align',
-    /*duration:'90%',*/
     triggerHook: 0.9,
     reverse: true,
   })
 
     .setClassToggle('.contents_align', 'fade-in')
-    /* .addIndicators({
-            name: 'fade scene 3',
-            indent: 200,
-          
-        })*/
     .addTo(controller);
 }); /*end*/
