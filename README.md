@@ -1,3 +1,3 @@
 # MARUGAME
 
-<a href="https://marugame.vercel.app/" target="_blank">DEMO</a>
+[DEMO](https://bit.ly/3P62rOI)
