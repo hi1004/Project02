@@ -41,7 +41,7 @@
 
 ### 3.2. ScrollMagic
 
-- **ScrollMagic ライブラリー** :pushpin: [コード確認](https://github.com/hi1004/marugame-App/blob/master/js/index.js#L333-L401)
+- **ScrollMagic ライブラリー** :pushpin: [コード確認](https://github.com/hi1004/marugame-App/blob/master/js/index.js#L333-L377)
 
 </details>
 
@@ -49,6 +49,6 @@
 
 ## 4. 成果 & 感じたこと
 
-- Swiper ライブラリーについて理解できました。
-- Fullpage ライブラリーについて勉強になりました。
-- UI/UX に力を入れることが大変でした。
+- Slick ライブラリーについて理解できました。
+- ScrollMagic ライブラリーについて勉強になりました。
+- 言語が日本語である初プロジェクトです。
